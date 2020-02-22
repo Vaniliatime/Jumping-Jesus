@@ -1,7 +1,7 @@
 # Jumping-Jesus
 <b> Gra stworzona w ramach przedmiotu "Silniki Gier" </b></br> </br>
 Inspiracja <b> #Icy Tower #Piexl Art </b> </br> </br>
-Kaszuba Krzysztof </br>
+
 
 
 G-Drive   :  https://drive.google.com/file/d/1LAvCjRUnndW-ygc4aBeb6tSCPSBweXuF/view </br>
@@ -17,3 +17,5 @@ G-Drive   :  https://drive.google.com/file/d/1LAvCjRUnndW-ygc4aBeb6tSCPSBweXuF/v
 
 <b> <center>  After Death </b> </center> </br>
 ![](Pictures/GameOver.png)
+
+Autor: Kaszuba Krzysztof </br>
