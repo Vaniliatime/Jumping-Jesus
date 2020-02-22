@@ -1,6 +1,6 @@
 # Jumping-Jesus
 <b> Gra stworzona w ramach przedmiotu "Silniki Gier" </b></br> 
-Inspiracja #Icy Tower #Piexl Art </br>
+Inspiracja <b> #Icy Tower #Piexl Art </b> </br>
 Kaszuba Krzysztof </br>
 
 
