@@ -4,7 +4,7 @@ Inspiracja <b> #Icy Tower #Piexl Art </b> </br> </br>
 
 
 
-G-Drive   :  https://drive.google.com/file/d/1LAvCjRUnndW-ygc4aBeb6tSCPSBweXuF/view </br>
+G-Drive [Pliki Projektu]  :  https://drive.google.com/file/d/1LAvCjRUnndW-ygc4aBeb6tSCPSBweXuF/view </br>
 
 
 
