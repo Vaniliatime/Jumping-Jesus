@@ -1,5 +1,5 @@
 # Jumping-Jesus
-Projekt inspirowany gra Icy Tower oraz Pixel Artem
+Projekt Inspirowany Gra Icy Tower oraz Pixel Artem </br>
 Kaszuba Krzysztof </br>
 
 
