@@ -1,5 +1,6 @@
 # Jumping-Jesus
-Projekt Inspirowany Grą #Icy Tower oraz #Pixel Artem </br>
+Gra stworzona w ramach przedmiotu "Silniki Gier" </br>
+Inspiracja #Icy Tower #Piexl Art </br>
 Kaszuba Krzysztof </br>
 
 
