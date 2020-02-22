@@ -1,5 +1,5 @@
 # Jumping-Jesus
-<b> Gra stworzona w ramach przedmiotu "Silniki Gier" </b></br> </br>
+<b> Gra Stworzona w Ramach Przedmiotu "Silniki Gier" </b></br> </br>
 Inspiracja <b> #Icy Tower #Piexl Art </b> </br> </br>
 
 
