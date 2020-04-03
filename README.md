@@ -4,18 +4,18 @@ Inspiracja <b> #Icy Tower #Piexl Art </b> </br> </br>
 
 
 
-G-Drive [Pliki Projektu]  :  https://drive.google.com/file/d/1LAvCjRUnndW-ygc4aBeb6tSCPSBweXuF/view </br>
+
 
 
 
 
 <b> <center>  Menu Of Jumping Jesus </b> </center> </br>
-![](Pictures/Menu.png)
+![](Readme_Pictures/Menu.png)
 
 <b> <center>  Game  </b> </center> </br>
-![](Pictures/Game.png)
+![](Readme_Pictures/Game.png)
 
 <b> <center>  After Death </b> </center> </br>
-![](Pictures/GameOver.png)
+![](Readme_Pictures/GameOver.png)
 
 Autor: Kaszuba Krzysztof </br>
